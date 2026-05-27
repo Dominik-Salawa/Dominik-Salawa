@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1>Hi, Im Dominik 👋</h1>
 
-<!--
-**Dominik-Salawa/Dominik-Salawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About me:</h3>
+<ul>
+  <li> 🛠️ Im into systems dev such as compiler dev and building tools</li>
+  <li> ⚙️ <b>C</b> is my favourite language 󠁣󠁣󠁣󠁣󠁣󠁣</li>
+  <li> 🌟 I inspire a lot of my compiler dev from C/Lua</li>
+  <li> 🎨 I draw using Krita</li>
+  <li> 📖 JoJo's Bizarre Adventure is my favourite AniManga</li>
+</ul>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠️ Tools I know:</h3>
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,lua,python,arch,linux,windows,bash"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,robloxstudio,godot,arduino"/><br>
+  </a>
+  (ASM x86_64-Linux included)
+</div>
+
+<hr>
+
+<h3>📝 Bucket list to do:</h3>
+<h4>🌱 Learn:</h4>
+<ul>
+  <li>CMake/Makefile</li>
+  <li>advance my knowledge in Algorithms</li>
+  <li>django</li>
+</ul>
+
+<h4>🟩 Finished tasks:</h4>
+<ul>
+  <li><a href="https://github.com/Dominik-Salawa/GuineaJSON">
+    GuineaJSON
+  </a></li>
+  
+  <li><a href="https://github.com/Dominik-Salawa/Brainfuck-VM">
+    Brainfuck-VM
+  </a></li>
+
+  <li><a href="https://github.com/Dominik-Salawa/MARTIN">
+    MARTIN
+  </a></li>
+</ul>
