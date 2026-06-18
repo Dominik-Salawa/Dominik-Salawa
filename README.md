@@ -35,10 +35,6 @@
   <li><a href="https://github.com/Dominik-Salawa/GuineaJSON">
     GuineaJSON
   </a></li>
-  
-  <li><a href="https://github.com/Dominik-Salawa/Brainfuck-VM">
-    Brainfuck-VM
-  </a></li>
 
   <li><a href="https://github.com/Dominik-Salawa/MARTIN">
     MARTIN
