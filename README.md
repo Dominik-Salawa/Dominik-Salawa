@@ -14,8 +14,8 @@
 <h3>🛠️ Tools I know:</h3>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,lua,python,arch,linux,windows,bash"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,robloxstudio,godot,arduino"/><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,lua,python,arch,linux,windows,bash,git"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,robloxstudio,godot,arduino,github"/><br>
   </a>
   (ASM x86_64-Linux included)
 </div>
