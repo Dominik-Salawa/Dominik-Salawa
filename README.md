@@ -30,7 +30,7 @@
   <li>django</li>
 </ul>
 
-<h4>🟩 Finished tasks:</h4>
+<h4>🟩 Finished Projects:</h4>
 <ul>
   <li><a href="https://github.com/Dominik-Salawa/GuineaJSON">
     GuineaJSON
@@ -38,5 +38,9 @@
 
   <li><a href="https://github.com/Dominik-Salawa/MARTIN">
     MARTIN
+  </a></li>
+
+  <li><a href="https://dominik-salawa.github.io/3D-Rendering-Website">
+    3D-Rendering-Website
   </a></li>
 </ul>
