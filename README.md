@@ -1,46 +1,33 @@
-<h1>Hi, Im Dominik 👋</h1>
-
+Hi, Im Dominik<br>
 <h3>About me:</h3>
-<ul>
-  <li> 🇵🇱 Im Polish </li>
-  <li> 🛠️ Im into systems dev such as compiler dev and building tools </li>
-  <li> ⚙️ <b>C</b> and <b>C++</b> are my favorite languages 󠁣󠁣󠁣󠁣󠁣</li>
-  <li> 🌟 I inspire a lot of my compiler dev from C/Lua </li>
-  <li> 🎨 I draw using Krita </li>
-  <li> 📖 JoJo's Bizarre Adventure is my favourite AniManga </li>
-</ul>
+-> 🇵🇱 Im Polish<br>
+-> 🛠️ Im into systems dev such as compiler dev and building tools<br>
+-> ⚙️ <b>C</b> and <b>C++</b> are my favorite languages<br>
 
 <hr>
 
-<h3>🛠️ Tools I know:</h3>
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,debian,arch,linux,windows,bash,git"/><br>
-    <img src="https://skillicons.dev/icons?i=lua,python,html,css,ts,robloxstudio,godot,arduino"/><br>
-  </a>
-  (ASM x86_64-Linux included)
-</div>
+<h3>Tools I use:</h3>
+
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dominik-Salawa&layout=pie&langs_count=5&theme=dark" alt="GitHub Top Langs" />
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,debian"/><br>
+        <img src="https://skillicons.dev/icons?i=lua,python,linux"/><br>
+        <img src="https://skillicons.dev/icons?i=bash,git,arch"/><br>
+        <img src="https://skillicons.dev/icons?i=robloxstudio,godot,arduino"/><br>
+      </a>
+      <sub>(ASM x86_64-Linux included)</sub>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
-<h3>📝 Bucket list to do:</h3>
-<h4>🌱 Learn:</h4>
-<ul>
-  <li>advance my knowledge in Algorithms</li>
-  <li>django</li>
-</ul>
-
-<h4>🟩 Finished Projects:</h4>
-<ul>
-  <li><a href="https://github.com/Dominik-Salawa/GuineaJSON">
-    GuineaJSON
-  </a></li>
-
-  <li><a href="https://github.com/Dominik-Salawa/MARTIN">
-    MARTIN
-  </a></li>
-
-  <li><a href="https://dominik-salawa.github.io/3D-Rendering-Website">
-    3D-Rendering-Website
-  </a></li>
-</ul>
+<h3>Projects:</h3>
+&nbsp;-> <a href="https://github.com/Dominik-Salawa/Guinea">Guinea</a>: High-level bytecoded language written in C<br>
+&nbsp;-> <a href="https://github.com/Dominik-Salawa/MARTIN">MARTIN</a>: Toy interpreter written in Python<br>
+&nbsp;-> <a href="https://github.com/Dominik-Salawa/GuineaJSON">GuineaJSON</a>: Library on <a href="https://pypi.org/project/GuineaJSON">PyPi</a> for parsing JSONs<br>
