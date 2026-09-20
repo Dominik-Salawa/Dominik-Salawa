@@ -3,6 +3,7 @@ Hi, Im Dominik<br>
 -> 🇵🇱 Im Polish<br>
 -> 🛠️ Im into systems dev such as compiler dev and building tools<br>
 -> ⚙️ <b>C</b> and <b>C++</b> are my favorite languages<br>
+-> 🎂 Born on the 31/10/2010
 
 <hr>
 
