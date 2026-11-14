@@ -1,9 +1,20 @@
-Hi, Im Dominik<br>
-<h3>About me:</h3>
--> 🇵🇱m Polish<br>
--> 🛠 Im into systems dev such as compiler dev and building tools<br>
--> ⚙ <b>C</b> and <b>C++</b> are my favorite languages<br>
--> 🎂 Born on Halloween
+```js
+fetch("/api/github/Dominik-Salawa")
+  .then((response) => response.json())
+  .then((data) => console.log(data))
+  .catch((error) => console.error("err:", error));
+```
+
+```json
+{
+  "title": "Hi, I'm Dominik!",
+  "facts": [
+    "-> 🇵🇱 I'm Polish",
+    "-> 🛠 I'm into systems dev such as compiler dev, building tools, and backend Java dev",
+    "-> 🎂 Born on Halloween"
+  ]
+}
+```
 
 <hr>
 
@@ -12,14 +23,14 @@ Hi, Im Dominik<br>
 <table width="100%">
   <tr>
     <td align="left" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dominik-Salawa&layout=pie&langs_count=5&theme=dark" alt="GitHub Top Langs" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dominik-Salawa&layout=pie&langs_count=5&theme=dark" alt="GitHub Top Langs"/>
     </td>
     <td align="right" valign="middle">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,debian"/><br>
-        <img src="https://skillicons.dev/icons?i=lua,python,linux"/><br>
-        <img src="https://skillicons.dev/icons?i=bash,git,arch"/><br>
-        <img src="https://skillicons.dev/icons?i=robloxstudio,godot,arduino"/><br>
+        <img src="https://skillicons.dev/icons?i=c,cpp,sqlite"/><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,maven"/><br>
+        <img src="https://skillicons.dev/icons?i=linux,debian,arch"/><br>
+        <img src="https://skillicons.dev/icons?i=python,godot,lua"/><br>
       </a>
       <sub>(ASM x86_64-Linux included)</sub>
     </td>
@@ -29,6 +40,6 @@ Hi, Im Dominik<br>
 <hr>
 
 <h3>Projects:</h3>
-&nbsp;-> <a href="https://github.com/Dominik-Salawa/Guinea">Guinea</a>: High-level bytecoded language written in C<br>
-&nbsp;-> <a href="https://github.com/Dominik-Salawa/MARTIN">MARTIN</a>: Toy interpreter written in Python<br>
-&nbsp;-> <a href="https://github.com/Dominik-Salawa/GuineaJSON">GuineaJSON</a>: Library on <a href="https://pypi.org/project/GuineaJSON">PyPi</a> for parsing JSONs<br>
+&nbsp;-> <a href="https://github.com/Dominik-Salawa/Guinea">Guinea [WIP]</a>: High-level bytecoded language written in C<br>
+&nbsp;-> <a href="https://github.com/Dominik-Salawa/MARTIN">MARTIN</a>: Interpreter written in Python<br>
+&nbsp;-> <a href="https://github.com/Dominik-Salawa/GuineaJSON">GuineaJSON</a>: JSON Parser for Python, on <a href="https://pypi.org/project/GuineaJSON">PyPi</a><br>
