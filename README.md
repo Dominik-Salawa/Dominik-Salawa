@@ -10,7 +10,7 @@ fetch("/api/github/Dominik-Salawa")
   "title": "Hi, I'm Dominik!",
   "facts": [
     "-> 🇵🇱 I'm Polish",
-    "-> 🛠 I'm into systems dev such as compiler dev, building tools, and backend Java dev",
+    "-> 🛠 I'm into systems dev and backend web dev",
     "-> 🎂 Born on Halloween"
   ]
 }
